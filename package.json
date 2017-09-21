@@ -1,0 +1,29 @@
+{
+  "name": "material-parser",
+  "version": "1.0.0",
+  "description": "parses ogre material to json using OgreMaterialParser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "node-gyp rebuild"
+  },
+  "keywords": [
+    "OgreMaterial",
+    "OgreMaterial",
+    "parser",
+    "material",
+    "parser"
+  ],
+  "author": {
+    "name": "mhayman",
+    "email":"mohmmadayman@aucegypt.edu",
+    "url": "https://twitter.com/Mohamd_Ayman"
+    },
+  "repository" :{ 
+    "type" : "git",
+    "url" :  "https://github.com/MohmadAyman/material-parser.git"
+    },
+  "bugs" : "https://github.com/MohmadAyman/material-parser/issues",
+  "license": "Apache-2.0",
+  "gypfile": true
+}

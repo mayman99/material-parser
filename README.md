@@ -8,4 +8,4 @@ This package parses OGRE .material files into json.
 # usage
   ` node index.js [path of the .material file/s] `
 
-the `json` result appears in the current directory as ` material_json.json `
+the `json` file will appear in the current directory as ` material.json `
