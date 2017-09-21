@@ -8,11 +8,12 @@
     "install": "node-gyp rebuild"
   },
   "keywords": [
+    "Ogre Material parser",
     "OgreMaterial",
-    "OgreMaterial",
-    "parser",
+    "material parser",
     "material",
-    "parser"
+    "parser",
+    "json"
   ],
   "author": {
     "name": "mhayman",
