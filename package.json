@@ -1,6 +1,6 @@
 {
   "name": "material-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "parses ogre material to json using OgreMaterialParser",
   "main": "index.js",
   "scripts": {
