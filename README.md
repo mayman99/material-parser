@@ -1,5 +1,5 @@
 # material-parser
-This package parses OGRE .material files into json.
+This package parses OGRE .material with versions < 1.10 files into json.
 
 
 # installation
